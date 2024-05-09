@@ -53,7 +53,7 @@ function stopDrawing() {
 }
 
 function home() {
-    window.location = "index.html"
+    window.location = "index.html";
 }
 
 document.getElementById('clearBtn').addEventListener('click', function () {
