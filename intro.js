@@ -1,3 +1,3 @@
 function create() {
-    window.location = "index.html";
+    window.location = "create.html";
 }
